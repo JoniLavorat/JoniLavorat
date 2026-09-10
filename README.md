@@ -1,6 +1,24 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F5FF,50:8A2BE2,100:FF00FF&text=JONI%20LAVORAT&fontColor=ffffff&fontSize=60&fontAlignY=40&animation=fadeIn" />
 
-<div align="center">
+<div       ________________________________
+
+         ██╗ ██████╗ ███╗   ██╗██╗
+         ██║██╔═══██╗████╗  ██║██║
+         ██║██║   ██║██╔██╗ ██║██║
+    ██   ██║██║   ██║██║╚██╗██║██║
+    ╚█████╔╝╚██████╔╝██║ ╚████║██║
+     ╚════╝  ╚═════╝ ╚═╝  ╚═══╝╚═╝
+
+      BACKEND ENGINEER // DATA SYSTEMS
+      PYTHON • SQL • AUTOMATION • APIs
+
+      STATUS: ONLINE ●
+________________________________________
+<!-- ASCII Art Profile Avatar -->
+<a href="https://github.com/JoniLavorat">
+  blob:...
+</a>
+>
 
   <br />
 
