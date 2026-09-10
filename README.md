@@ -63,12 +63,16 @@ localizacao:
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
-<p align="center">
-  https://github-readme-stats.vercel.app/api?username=JoniLavorat&show_icons=true&theme=github_dark&hide_border=true
-  https://github-readme-stats.vercel.app/api/top-langs/?username=JoniLavorat&layout=compact&theme=github_dark&hide_border=true
-</p>
+<div align="center">
+
+https://github-readme-stats.vercel.app/api?username=JoniLavorat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=JoniLavorat&layout=compact&langs_count=8&theme=tokyonight
+
+</div>
+
 
 
 ---
