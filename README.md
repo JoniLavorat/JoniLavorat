@@ -1,34 +1,63 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Joni Lavorat
+# 👨‍💻 Walter Joni Alves Lavorat
 
-### Backend Developer • Python • SQL • Data Engineering
+```text
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣶⣶⣦⡀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣷
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡿⠿⠿⢿⣿
+⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿ ⬛  ⬛ ⣿
+⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⠀⠿⠀⣿⡇
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣦⣤⣴⡿
+⠀⠀⠀⠀⠀⠀⠀⣠⣶⣿⣿⣿⣿⣶⣄
+⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣷
+⠀⠀⠀⠀⢠⣿⣿⣿⠟⠛⠛⠻⣿⣿⣿⣿
+```
 
-https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Development;Python+Developer;Database+Architecture;SQL+Enthusiast;Always+Learning
+### Backend Developer in Progress 🚀
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+## 💫 Sobre Mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** com foco em:
+```yaml
+nome: Walter Joni Alves Lavorat
 
-- Backend Development
-- Python
-- SQL
-- Banco de Dados
-- Engenharia de Dados
+formacao:
+  - Análise e Desenvolvimento de Sistemas
 
-Atualmente aprimorando conhecimentos em arquitetura de sistemas, modelagem de dados e desenvolvimento de APIs.
+foco:
+  - Backend Development
+  - APIs REST
+  - Banco de Dados
+  - SQL
+  - Python
+
+linguagem_favorita:
+  - Python
+
+objetivo:
+  - Primeira oportunidade como Desenvolvedor Backend
+
+localizacao:
+  - São Paulo, Brasil
+```
 
 ---
 
-## ⚡ Tecnologias
+## ⚙️ Stack Atual
 
 <div align="center">
 
-https://skillicons.dev/icons?i=python,mysql,postgresql,mongodb,git,github,vscode,linux
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 </div>
 
@@ -38,39 +67,22 @@ https://skillicons.dev/icons?i=python,mysql,postgresql,mongodb,git,github,vscode
 
 <div align="center">
 
-https://github-readme-stats.vercel.app/api?username=JoniLavorat&show_icons=true&theme=tokyonight&hide_border=true
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoniLavorat&show_icons=true&theme=tokyonight"/>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=JoniLavorat&layout=compact&theme=tokyonight&hide_border=true
-
-</div>
-
----
-
-## 🎯 Atualmente
-
-```txt
-▰▰▰▰▰▰▰▰▱▱ Backend Development
-▰▰▰▰▰▰▰▱▱▱ SQL & Databases
-▰▰▰▰▰▰▱▱▱▱ Data Engineering
-▰▰▰▰▰▱▱▱▱▱ Software Architecture
-```
-
----
-
-## 🌐 Contato
-
-<div align="center">
-
-https://www.linkedin.com/in/walter-lavorat/
-https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoniLavorat&layout=compact&theme=tokyonight"/>
 
 </div>
 
 ---
 
-<div align="center">
+## 🎯 Roadmap Atual
 
-### 💡 Transformando dados em soluções inteligentes
+- ✅ Python
+- ✅ Git & GitHub
+- ✅ SQL
+- ✅ Banco de Dados Relacionais
+- 🔄 APIs REST
+- 🔄 Estruturas de Dados
+- 🔄 Docker
+- 🎯 AWS
 
-</div>
