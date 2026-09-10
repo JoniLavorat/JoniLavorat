@@ -22,13 +22,11 @@
 ### 🐍 // THE PYTHON SNAKE (Contribuições)
 
 <div align="center">
-  <!-- Para fazer a cobrinha comer suas contribuições reais, você precisa configurar a GitHub Action do repositório Platane/snk. -->
-  <!-- Por enquanto, aqui está o gráfico animado cyberpunk de demonstração! -->
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WalterLavorat/WalterLavorat/output/dist/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WalterLavorat/WalterLavorat/output/dist/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WalterLavorat/WalterLavorat/output/dist/github-contribution-grid-snake-dark.svg">
-</picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoniLavorat/JoniLavorat/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoniLavorat/JoniLavorat/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JoniLavorat/JoniLavorat/output/dist/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
 
 ---
