@@ -2,32 +2,39 @@
 
 <div align="center">
 
-# ⚡ WALTER JONI ALVES LAVORAT ⚡
+  <br />
 
-### 「 Backend Engineer in Progress • Data Enthusiast • SQL Architect 」
+  <!-- ASCII Art Profile Avatar -->
+  <a href="https://github.com/JoniLavorat">
+    <img src="blob:https://gemini.google.com/d667bc8f-5f8b-4e26-a975-caac4f5933bc" alt="Joni Lavorat ASCII Profile" width="320" style="border-radius: 12px; border: 2px solid #00F5FF; box-shadow: 0 0 20px #00F5FF;" />
+  </a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+Digital+Solutions;Python+Developer;Backend+Focused;Database+Architecture+Lover;Transforming+Data+Into+Intelligence" />
+  <br /><br />
+
+  # ⚡ WALTER JONI ALVES LAVORAT ⚡
+
+  ### 「 🤖 Backend Engineer • 💾 Data Enthusiast • 📐 SQL Architect 」
+
+  <br />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=%3E_Building+High-Performance+Digital+Solutions;%3E_Python+%26+Backend+Specialist;%3E_Database+Architecture+%26+SQL+Modeling;%3E_Cybernetic+System+Architect;%3E_Transforming+Data+Into+Intelligence" />
+
+  <br /><br />
 
 </div>
 
 ---
 
-## 🌌 SYSTEM STATUS
+## 🌌 SYSTEM STATUS // TERMINAL OVERVIEW
 
 ```yaml
-Name: Walter Joni Alves Lavorat
-Alias: JoniLavorat
-Location: São Paulo, Brazil
-Education: Análise e Desenvolvimento de Sistemas
-Primary Focus:
-  - Backend Development
-  - Data Engineering
-  - Information Management
-Favorite Language:
-  - Python
-Currently Learning:
-  - SQL Modeling
-  - Database Architecture
-  - API Development
-Status:
-  - ONLINE
+┌──[ CYBERNETIC_PROFILE_DATA ]
+│ 👤 Name           : Walter Joni Alves Lavorat
+│ 🏷️  Alias          : JoniLavorat
+│ 📍 Location       : São Paulo, SP - Brazil [LAT/LONG: -23.5505, -46.6333]
+│ 🎓 Education      : Análise e Desenvolvimento de Sistemas (Universidade Cruzeiro do Sul)
+│ 🎯 Primary Focus  : Backend Systems, SQL Architecture & Data Engineering
+│ 🐍 Core Language  : Python (Backend & Automation)
+│ 🔄 Current Mode   : Continuous System Upgrades & API Architecture
+│ ⚡ Status         : 🟢 ONLINE // READY_FOR_DISPATCH
+└─────────────────────────────────────────────────────────────────────────────
