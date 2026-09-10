@@ -1,89 +1,59 @@
-# Olá, eu sou o Joni Lavorat! 👋
-
-## 🚀 Sobre Mim
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas** com foco em desenvolvimento **Backend**, **Banco de Dados** e **Gestão da Informação**.
-
-Tenho interesse em construir soluções escaláveis, APIs robustas e sistemas orientados a dados, sempre buscando aplicar boas práticas de desenvolvimento, modelagem de dados e arquitetura de software.
-
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- 🎯 Foco principal em **Backend Development**
-- 🐍 Linguagem favorita: **Python**
-- 🗄️ Estudando **SQL, Banco de Dados Relacionais e NoSQL**
-- 📚 Aprendendo constantemente sobre arquitetura de sistemas e engenharia de dados
-- 💡 Interesse em automação, análise de dados e integração de sistemas
-
----
-
 ## 🛠️ Tecnologias & Ferramentas
 
 ### Backend & Linguagens
 
-<p>
-  https://skillicons.dev/icons?i=python,java,nodejs
+<p align="left">
+  https://skillicons.dev/icons?i=python
+  https://skillicons.dev/icons?i=java
+  https://skillicons.dev/icons?i=html
+  https://skillicons.dev/icons?i=css
+  https://skillicons.dev/icons?i=js
 </p>
 
-### Bancos de Dados
+### Bancos de Dados & Gestão da Informação
 
-<p>
-  https://skillicons.dev/icons?i=mysql,postgresql,mongodb
+<p align="left">
+  https://skillicons.dev/icons?i=mysql
+  https://skillicons.dev/icons?i=postgresql
+  https://skillicons.dev/icons?i=mongodb
 </p>
 
-### Desenvolvimento & Ferramentas
+- Modelagem de Dados
+- Banco de Dados Relacionais
+- Banco de Dados Não Relacionais
+- SQL e Consultas Otimizadas
+- Gestão da Informação
+- Análise e Organização de Dados
 
-<p>
-  https://skillicons.dev/icons?i=git,github,vscode,linux
+### Ferramentas & Outros
+
+<p align="left">
+  https://skillicons.dev/icons?i=git
+  https://skillicons.dev/icons?i=github
+  https://skillicons.dev/icons?i=vscode
+  https://skillicons.dev/icons?i=linux
 </p>
 
----
+- Controle de Versão com Git
+- GitHub
+- VS Code
+- Linux
+- Boas práticas de Desenvolvimento
+- Aprendizado Contínuo
 
-## 📈 Atualmente Estudando
+## 📊 Minhas Estatísticas no GitHub
 
-- Desenvolvimento de APIs REST
-- Modelagem de Banco de Dados
-- SQL Avançado
-- Engenharia de Dados
-- Estruturas de Dados e Algoritmos
-- Boas práticas de Backend
+<p align="center">
+  https://github-readme-stats.vercel.app/api?username=JoniLavorat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true
+  https://github-readme-stats.vercel.app/api/top-langs/?username=JoniLavorat&layout=compact&langs_count=8&theme=tokyonight
+</p>
 
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-https://github-readme-stats.vercel.app/api?username=JoniLavorat&show_icons=true&theme=tokyonight
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=JoniLavorat&layout=compact&theme=tokyonight
-
-</div>
-
----
-
-## 🎯 Objetivos para 2026
-
-- ✅ Consolidar conhecimentos em Python
-- ✅ Desenvolver projetos backend completos
-- ✅ Aprimorar conhecimentos em bancos de dados
-- ✅ Criar portfólio com projetos reais
-- ✅ Contribuir para projetos open source
-
----
+<p align="center">
+  https://github-readme-streak-stats.herokuapp.com/?user=JoniLavorat&theme=tokyonight
+</p>
 
 ## 📬 Entre em Contato
 
-💼 LinkedIn:  
-🔗 https://www.linkedin.com/in/walter-lavorat/
-
-📧 E-mail:  
-Entre em contato através do LinkedIn ou dos projetos publicados aqui no GitHub.
-
----
-
-## 💡 Filosofia
-
-> "Transformar informação em valor através da tecnologia."
-
----
-
-⭐ Obrigado pela visita ao meu perfil!
+* 💼 **LinkedIn:** https://www.linkedin.com/in/walter-lavorat/
+* ✉️ **E-mail:** Disponível para networking, oportunidades e colaboração em projetos.
+* 🤝 Estou aberto para trocar conhecimentos sobre Python, SQL, Backend e Banco de Dados.
