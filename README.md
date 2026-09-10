@@ -1,46 +1,76 @@
+<div align="center">
+
 # 👋 Olá, eu sou o Joni Lavorat
 
-```text
-Backend Developer | Python | SQL | Data
-```
+### Backend Developer • Python • SQL • Data Engineering
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** com foco em desenvolvimento **Backend**, **Banco de Dados** e **Engenharia de Dados**.
+https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Development;Python+Developer;Database+Architecture;SQL+Enthusiast;Always+Learning
+
+</div>
 
 ---
 
 ## 🚀 Sobre mim
 
-- 💻 Desenvolvendo soluções backend
-- 🐍 Apaixonado por Python
-- 🗄️ Estudando SQL e arquitetura de bancos de dados
-- 📊 Explorando Engenharia de Dados
-- 📚 Aprendendo algo novo todos os dias
+Sou estudante de **Análise e Desenvolvimento de Sistemas** com foco em:
+
+- Backend Development
+- Python
+- SQL
+- Banco de Dados
+- Engenharia de Dados
+
+Atualmente aprimorando conhecimentos em arquitetura de sistemas, modelagem de dados e desenvolvimento de APIs.
 
 ---
 
 ## ⚡ Tecnologias
 
-https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python
-https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql
-https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql
-https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql
-https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git
-https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux
+<div align="center">
+
+https://skillicons.dev/icons?i=python,mysql,postgresql,mongodb,git,github,vscode,linux
+
+</div>
 
 ---
 
-## 📈 GitHub
+## 📊 GitHub Stats
+
+<div align="center">
 
 https://github-readme-stats.vercel.app/api?username=JoniLavorat&show_icons=true&theme=tokyonight&hide_border=true
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=JoniLavorat&layout=compact&theme=tokyonight&hide_border=true
 
+</div>
+
+---
+
+## 🎯 Atualmente
+
+```txt
+▰▰▰▰▰▰▰▰▱▱ Backend Development
+▰▰▰▰▰▰▰▱▱▱ SQL & Databases
+▰▰▰▰▰▰▱▱▱▱ Data Engineering
+▰▰▰▰▰▱▱▱▱▱ Software Architecture
+```
+
 ---
 
 ## 🌐 Contato
 
-https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/walter-lavorat/)
+<div align="center">
+
+https://www.linkedin.com/in/walter-lavorat/
+https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+</a>
+
+</div>
 
 ---
 
-> "Transformando dados em soluções inteligentes."
+<div align="center">
+
+### 💡 Transformando dados em soluções inteligentes
+
+</div>
