@@ -47,8 +47,8 @@
 ### 📊 // SYSTEM_STATS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WalterLavorat&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00ff00&text_color=ffffff&icon_color=00ff00" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalterLavorat&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=00ff00&text_color=ffffff" height="150" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoniLavorat&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00ff00&text_color=ffffff&icon_color=00ff00" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoniLavorat&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=00ff00&text_color=ffffff" height="150" alt="top languages" />
 </div>
 
 ---
