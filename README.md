@@ -1,33 +1,89 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F5FF,50:8A2BE2,100:FF00FF&text=JONI%20LAVORAT&fontColor=ffffff&fontSize=60&fontAlignY=40&animation=fadeIn" />
+# Olá, eu sou o Joni Lavorat! 👋
+
+## 🚀 Sobre Mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas** com foco em desenvolvimento **Backend**, **Banco de Dados** e **Gestão da Informação**.
+
+Tenho interesse em construir soluções escaláveis, APIs robustas e sistemas orientados a dados, sempre buscando aplicar boas práticas de desenvolvimento, modelagem de dados e arquitetura de software.
+
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
+- 🎯 Foco principal em **Backend Development**
+- 🐍 Linguagem favorita: **Python**
+- 🗄️ Estudando **SQL, Banco de Dados Relacionais e NoSQL**
+- 📚 Aprendendo constantemente sobre arquitetura de sistemas e engenharia de dados
+- 💡 Interesse em automação, análise de dados e integração de sistemas
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### Backend & Linguagens
+
+<p>
+  https://skillicons.dev/icons?i=python,java,nodejs
+</p>
+
+### Bancos de Dados
+
+<p>
+  https://skillicons.dev/icons?i=mysql,postgresql,mongodb
+</p>
+
+### Desenvolvimento & Ferramentas
+
+<p>
+  https://skillicons.dev/icons?i=git,github,vscode,linux
+</p>
+
+---
+
+## 📈 Atualmente Estudando
+
+- Desenvolvimento de APIs REST
+- Modelagem de Banco de Dados
+- SQL Avançado
+- Engenharia de Dados
+- Estruturas de Dados e Algoritmos
+- Boas práticas de Backend
+
+---
+
+## 📊 Estatísticas GitHub
 
 <div align="center">
 
-# ⚡ WALTER JONI ALVES LAVORAT ⚡
+https://github-readme-stats.vercel.app/api?username=JoniLavorat&show_icons=true&theme=tokyonight
 
-### 「 Backend Engineer in Progress • Data Enthusiast • SQL Architect 」
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+Digital+Solutions;Python+Developer;Backend+Focused;Database+Architecture+Lover;Transforming+Data+Into+Intelligence" />
+https://github-readme-stats.vercel.app/api/top-langs/?username=JoniLavorat&layout=compact&theme=tokyonight
 
 </div>
 
 ---
 
-## 🌌 SYSTEM STATUS
+## 🎯 Objetivos para 2026
 
-```yaml
-Name: Walter Joni Alves Lavorat
-Alias: JoniLavorat
-Location: São Paulo, Brazil
-Education: Análise e Desenvolvimento de Sistemas
-Primary Focus:
-  - Backend Development
-  - Data Engineering
-  - Information Management
-Favorite Language:
-  - Python
-Currently Learning:
-  - SQL Modeling
-  - Database Architecture
-  - API Development
-Status:
-  - ONLINE
+- ✅ Consolidar conhecimentos em Python
+- ✅ Desenvolver projetos backend completos
+- ✅ Aprimorar conhecimentos em bancos de dados
+- ✅ Criar portfólio com projetos reais
+- ✅ Contribuir para projetos open source
+
+---
+
+## 📬 Entre em Contato
+
+💼 LinkedIn:  
+🔗 https://www.linkedin.com/in/walter-lavorat/
+
+📧 E-mail:  
+Entre em contato através do LinkedIn ou dos projetos publicados aqui no GitHub.
+
+---
+
+## 💡 Filosofia
+
+> "Transformar informação em valor através da tecnologia."
+
+---
+
+⭐ Obrigado pela visita ao meu perfil!
