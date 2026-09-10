@@ -22,8 +22,6 @@ ________________________________________
 
   <br />
 
-  <!-- ASCII Art Profile Avatar -->
-  <a href="https://github.com/JoniLavorat">
     <img src="blob:https://gemini.google.com/d667bc8f-5f8b-4e26-a975-caac4f5933bc" alt="Joni Lavorat ASCII Profile" width="320" style="border-radius: 12px; border: 2px solid #00F5FF; box-shadow: 0 0 20px #00F5FF;" />
   </a>
 
