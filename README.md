@@ -1,58 +1,89 @@
-# Olá, eu sou o Joni Lavorat! 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,100:2563eb"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walter-lavorat/) 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonilavorat)
+<h1 align="center">Olá, eu sou o Walter Joni Alves Lavorat 👋</h1>
+
+<p align="center">
+🎯 Backend Developer em formação • Python • SQL • Banco de Dados
+</p>
+
+<div align="center">
+
+```text
+joni@github
+────────────────────────────────────────────
+
+Nome........... Walter Joni Alves Lavorat
+Local.......... São Paulo, Brasil
+Formação....... Análise e Desenvolvimento de Sistemas
+Foco........... Backend Development
+Stack.......... Python | SQL | APIs REST
+Objetivo....... Construir soluções robustas e escaláveis
+Status......... Coding and Learning 🚀
+```
+
+</div>
 
 ---
 
 ## 🚀 Sobre Mim
 
-Estudante de **Análise e Desenvolvimento de Sistemas** com foco em desenvolvimento **Backend**, arquitetura de **Banco de Dados** e **Gestão da Informação**. Apaixonado por transformar dados em soluções eficientes, construir APIs robustas e otimizar processos de informação.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** com foco em desenvolvimento **Backend**, modelagem de bancos de dados e gestão da informação.
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- 🎯 Foco principal: **Backend Development & Data Engineering**
-- 🐍 Linguagem favorita: **Python**
-- 🗄️ Especializando em: **Modelagem SQL, Bancos de Dados Relacionais e Não-Relacionais**
-- 💬 Vamos conversar sobre: Backend, Python, SQL e arquitetura de sistemas.
+Atualmente direciono meus estudos para:
 
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-### Backend & Linguagens
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Bancos de Dados & Gestão da Informação
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Ferramentas & Outros
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+- 🐍 Python
+- 🗄️ SQL
+- 🔗 APIs REST
+- 📊 Banco de Dados
+- 🏗️ Arquitetura Backend
+- ☁️ Desenvolvimento de aplicações escaláveis
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
+## 💻 Tecnologias
 
-<br />
+### Linguagens
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html" />
+</p>
+
+### Banco de Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+### Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 📈 Estatísticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonilavorat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=JoniLavorat&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoniLavorat&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
 
-## 📬 Entre em Contato
+## 🔥 Streak
 
-- 💼 **LinkedIn:** [Visite o meu perfil no Linkedin:](https://www.linkedin.com/in/walter-lavorat/) 
-- ✉️ **E-mail:** [Entre em contato comigo através do E-mail:](mailto:walteraltes994@gmail.com)
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=JoniLavorat&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-<div align="center">
-  <sub>Criado com 💜 por Joni Lavorat</sub>
-</div>
+## 🎯 Roadmap Atual
+
+```txt
