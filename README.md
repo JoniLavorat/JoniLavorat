@@ -6,9 +6,13 @@
   https://skillicons.dev/icons?i=python
   https://skillicons.dev/icons?i=java
   https://skillicons.dev/icons?i=html
-  https://skillicons.dev/icons?i=css
-  https://skillicons.dev/icons?i=js
 </p>
+
+- Desenvolvimento Backend
+- Programação Orientada a Objetos
+- Estruturas de Dados
+- Lógica de Programação
+- APIs REST
 
 ### Bancos de Dados & Gestão da Informação
 
@@ -18,12 +22,13 @@
   https://skillicons.dev/icons?i=mongodb
 </p>
 
-- Modelagem de Dados
+- Modelagem de Banco de Dados
+- SQL
 - Banco de Dados Relacionais
 - Banco de Dados Não Relacionais
-- SQL e Consultas Otimizadas
-- Gestão da Informação
-- Análise e Organização de Dados
+- Normalização de Dados
+- Gestão e Organização da Informação
+- Consultas e Otimização
 
 ### Ferramentas & Outros
 
@@ -34,26 +39,22 @@
   https://skillicons.dev/icons?i=linux
 </p>
 
-- Controle de Versão com Git
-- GitHub
+- Controle de Versionamento
+- Desenvolvimento Colaborativo
+- Ambiente Linux
 - VS Code
-- Linux
-- Boas práticas de Desenvolvimento
+- Metodologias de Desenvolvimento
 - Aprendizado Contínuo
 
 ## 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  https://github-readme-stats.vercel.app/api?username=JoniLavorat&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true
-  https://github-readme-stats.vercel.app/api/top-langs/?username=JoniLavorat&layout=compact&langs_count=8&theme=tokyonight
-</p>
-
-<p align="center">
-  https://github-readme-streak-stats.herokuapp.com/?user=JoniLavorat&theme=tokyonight
+  https://github-readme-stats.vercel.app/api?username=JoniLavorat&show_icons=true&theme=tokyonight
+  https://github-readme-stats.vercel.app/api/top-langs/?username=JoniLavorat&layout=compact&theme=tokyonight
 </p>
 
 ## 📬 Entre em Contato
 
 * 💼 **LinkedIn:** https://www.linkedin.com/in/walter-lavorat/
-* ✉️ **E-mail:** Disponível para networking, oportunidades e colaboração em projetos.
-* 🤝 Estou aberto para trocar conhecimentos sobre Python, SQL, Backend e Banco de Dados.
+* ✉️ **E-mail:** Disponível para contato profissional, networking e colaboração em projetos.
+* 🤝 Sempre aberto para conversar sobre Python, Backend, SQL, Banco de Dados e Tecnologia.
