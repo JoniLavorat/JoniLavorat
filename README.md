@@ -15,7 +15,8 @@
 - 📍 **Localização:** São Paulo, SP - Brasil
 - 💻 **Arsenal Principal:** Python 🐍 (Meus códigos deslizam e dão bote)
 - 🎮 **Downtime:** Quando não estou codando, estou distribuindo headshots no Counter-Strike (CS2).
-- 🧠 **Upgrade Atual:** [Adicione aqui o que você está estudando no momento]
+
+
 
 ---
 
@@ -33,12 +34,18 @@
 ### 🛠️ // TECH_STACK (Neon Edition)
 
 <div align="center">
+  
+ 
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ff00" alt="SQL" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff00" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff00" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ff00" alt="CSS3" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff00" />
   <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=00ff00" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff00" />
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff00" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff00" />
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ff00" />
+  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=00ff00" alt="AWS" />
 </div>
 
 ---
