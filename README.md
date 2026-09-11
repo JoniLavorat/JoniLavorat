@@ -57,7 +57,8 @@
 *Bomb has been planted. 💣*
 <br>
 <div align="center">
-    <img src="https://media.giphy.com/media/VbWgS2M27BvH4Qk3tD/giphy.gif" width="350" alt="CS Gif" />
+<img width="220" height="124" alt="bomb-has-been-planted-cat" src="https://github.com/user-attachments/assets/7ee1c032-5560-4d29-bbdd-a6a50c11c3a5" />
+
 </div>
 
 ---
