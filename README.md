@@ -46,8 +46,8 @@
 ### 📊 // SYSTEM_STATS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoniLavorat&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00ff00&text_color=ffffff&icon_color=00ff00" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoniLavorat&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=00ff00&text_color=ffffff" height="150" alt="top languages" />
+  <img width="702" height="382" alt="Animar a imagem de dashboard existente em um vídeo horizontal_ movimentar suavemente as linhas dos gráficos, com a curva sendo desenhada e atualizada, e animar a barra de progresso preenchendo e pulsando de forma sutil  Preservar a comp" src="https://github.com/user-attachments/assets/cd8f8330-7e37-4b2a-a350-208b20f18af9" />
+
 </div>
 
 ---
